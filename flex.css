@@ -1,0 +1,45 @@
+.parent{
+    background-color:bisque;
+    height: 350px;
+    width: 1200px;
+    margin-left: 12%;
+    margin-right: auto;
+    border-radius: 5px;
+}
+body{
+    background-color:cyan ;
+    width: 1200px;
+    height: 500px;
+    
+}
+.flex1{
+    font-size: 20px;
+}
+span{
+    float: inline-end;
+}
+.ezas{
+    display: flex;
+    margin-top: 20px;
+    row-gap: 20px;
+    column-gap: 10px;
+    flex-wrap: wrap;
+    
+    
+}
+
+img{
+    border-radius: 50px;
+
+}
+.img1{
+    display: flex;
+    gap: 40px;
+    
+}
+.team{
+   row-gap: 10px;
+   margin-top: 10%;
+   
+
+}
